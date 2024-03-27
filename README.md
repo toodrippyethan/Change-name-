@@ -2,10 +2,6 @@
 
 The Mars Climate Orbiter incident in 1999 is a stark reminder of the importance of precision in space missions, highlighting how a simple unit mismatch led to the loss of the spacecraft. This challenge seeks to simulate similar challenges in a spacecraft navigation system, emphasizing the need for accuracy in calculations.
 
-KENNETH: https://scrimba.com/scrim/cq8MvDTp
-
-Starter Repo: https://github.com/CodeSpace-Academy/StudentNo_Classcode_Group_Name-Surname_DJS01
-
 #### Challenge Overview
 
 This challenge invites students to debug, refactor, and enhance JavaScript functions designed for determining the trajectory of a spacecraft. The initial functions are flawed and may result in incorrect calculations.

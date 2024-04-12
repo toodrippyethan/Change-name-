@@ -24,8 +24,8 @@ This challenge invites students to debug, refactor, and enhance JavaScript funct
 
 ##### Expected Corrected Results
 
-- **New Velocity**: Approximately 97,014.57 km/h after correction.
-- **New Distance**: Approximately 96,974.568 km after correction.
+- **New Velocity**: Approximately 48880 km/h after correction.
+- **New Distance**: Approximately 10000 km after correction.
 - **Remaining Fuel**: Approximately 3,200 kg after correction.
 
 #### Your Task
